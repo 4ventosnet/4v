@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://4v.fmt.com.pt/wp-sitemap.xml
+Sitemap: https://4v.pages.dev/wp-sitemap.xml
